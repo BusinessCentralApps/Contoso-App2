@@ -7,5 +7,7 @@
   "environments": [
     "QA"
   ],
-  "QA_Projects": "App2"
+  "DeployToQA": {
+    "Projects": "App2"
+  }
 }
