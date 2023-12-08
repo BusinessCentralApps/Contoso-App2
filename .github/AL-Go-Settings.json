@@ -1,6 +1,6 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/freddydk/AL-Go@bcptreport",
+  "templateUrl": "https://github.com/mazhelez/AL-Go@fix-incremental-build",
   "runs-on": "bc-build",
   "BcContainerHelperVersion": "preview",
   "GenerateDependencyArtifact": true,
@@ -9,5 +9,6 @@
   ],
   "DeployToQA": {
     "Projects": "App2"
-  }
+  },
+  "templateSha": "0ba00b8d1a6d916fcdfcb36b0c0736927e780b25"
 }
