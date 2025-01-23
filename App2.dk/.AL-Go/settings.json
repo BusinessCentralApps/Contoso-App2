@@ -10,7 +10,7 @@
                                       {
                                           "repo":  "https://github.com/businesscentralapps/contoso-common",
                                           "release_status":  "latestBuild",
-                                          "authTokenSecret": "ghTokenWorkflow"
+                                          "AuthTokenSecret": "NewToken"
                                       },
                                       {
                                           "repo":  "https://github.com/businesscentralapps/contoso-app2",
