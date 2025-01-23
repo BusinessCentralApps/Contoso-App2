@@ -2,11 +2,5 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
   "GenerateDependencyArtifact": true,
-  "environments": [
-    "QA"
-  ],
-  "DeployToQA": {
-    "Projects": "App2"
-  },
   "templateSha": "becb26e1f895fb75145bbc10535afb19c09bff5c"
 }
