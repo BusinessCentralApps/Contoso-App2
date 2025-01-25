@@ -1,6 +1,6 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
+  "templateUrl": "https://github.com/freddydk/AL-Go@noPAT",
   "GenerateDependencyArtifact": true,
-  "templateSha": "becb26e1f895fb75145bbc10535afb19c09bff5c"
+  "templateSha": "6013b81e02b135e4ebb941589649168eb7c4a7a2"
 }
