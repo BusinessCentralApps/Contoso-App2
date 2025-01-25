@@ -14,7 +14,7 @@
                                       },
                                       {
                                           "repo":  "https://github.com/businesscentralapps/contoso-app2",
-                                          "release_status":  "latestBuild",
+                                          "release_status":  "include",
                                           "projects":  "App2"
                                       }
                                   ],
