@@ -3,5 +3,6 @@
   "templateUrl": "https://github.com/freddydk/AL-Go@noPAT",
   "GenerateDependencyArtifact": true,
   "templateSha": "6013b81e02b135e4ebb941589649168eb7c4a7a2",
-  "SkipUpgrade": true
+  "SkipUpgrade": true,
+  "PullRequestTrigger": "pull_request"
 }
